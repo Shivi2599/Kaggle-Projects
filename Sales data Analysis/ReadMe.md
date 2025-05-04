@@ -4,7 +4,7 @@ Welcome to my **Retail Sales Analytics Project**, part of my *Kaggle Projects* s
 
 ---
 
-## 📦 Dataset Overview
+## Dataset Overview
 
 This dataset was originally prepared for Pentaho DI Kettle by María Carina Roldán, a BI Consultant from Argentina. It was later modified by Gus Segura in 2014 and is currently available on Kaggle.
 
@@ -20,19 +20,19 @@ This dataset was originally prepared for Pentaho DI Kettle by María Carina Rold
 
 ---
 
-## 📌 Objective
+## Objective
 
 The purpose of this analysis is to simulate real-world retail scenarios by exploring customer behavior, sales trends, and potential growth areas. Key focus areas include:
 
-- 📊 **Exploratory Data Analysis**  
-- 🧍‍♂️ **Customer Segmentation**  
-- 🛒 **Sales Pattern Recognition**  
-- 🌎 **Region-wise Performance Analysis**  
-- 📈 **Revenue and Profit Insights**
+- **Exploratory Data Analysis**  
+- **Customer Segmentation**  
+- **Sales Pattern Recognition**  
+- **Region-wise Performance Analysis**  
+- **Revenue and Profit Insights**
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Python** – Data wrangling & computation  
 - **Pandas & NumPy** – Data manipulation  
@@ -41,7 +41,14 @@ The purpose of this analysis is to simulate real-world retail scenarios by explo
 
 ---
 
-## 🔍 Key Insights
+## Repository Contents
+
+- [View the full code on Kaggle](https://www.kaggle.com/code/shivangi124/sales-data-analysis)
+- `ReadMe.md`- This documentation
+
+---
+
+## Key Insights
 
 - High sales concentration among specific product categories and customer types  
 - Notable regional differences in order frequency and shipping methods  
@@ -50,7 +57,7 @@ The purpose of this analysis is to simulate real-world retail scenarios by explo
 
 ---
 
-## 👤 Credits & Attribution
+## Credits & Attribution
 
 - **Original Author**: María Carina Roldán (BI Consultant, Assert Solutions)  
 - **Modified By**: Gus Segura (June 2014)  
