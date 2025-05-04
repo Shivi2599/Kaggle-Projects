@@ -41,30 +41,12 @@ The purpose of this analysis is to simulate real-world retail scenarios by explo
 
 ---
 
-## 📁 Repository Contents
-
-- `sales-data-analysis.ipynb` – Complete notebook with data cleaning, EDA, and insights  
-- `README.md` – This documentation  
-
----
-
 ## 🔍 Key Insights
 
 - High sales concentration among specific product categories and customer types  
 - Notable regional differences in order frequency and shipping methods  
 - Opportunities for optimized marketing strategies based on customer clusters  
 - Clear identification of top-performing segments by sales and profit contribution
-
----
-
-## 🎯 Future Scope
-
-This analysis lays the groundwork for more advanced work such as:
-
-- Predictive modeling for sales forecasting  
-- Customer lifetime value analysis  
-- Delivery and logistics optimization  
-- A/B testing simulations for pricing or shipping strategies
 
 ---
 
