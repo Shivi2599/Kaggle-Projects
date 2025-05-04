@@ -30,7 +30,7 @@ This project involves analyzing a sample dataset of retail sales that includes o
 - Analysis revealed that certain product lines and customer types consistently drive higher sales and profit.
 - Regional analysis showed clear variations in demand and shipping preferences.
 
-Dataset Source: [Coffee Sales Dataset](https://www.kaggle.com/datasets/ihelon/coffee-sales)
+Dataset Source: [Sample Sales Dataset](https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
 ### *Coffee Sales Analysis*
 
